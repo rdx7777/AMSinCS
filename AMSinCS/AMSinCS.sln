@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMSinCS", "AMSinCS\AMSinCS.csproj", "{ABD9C60A-B779-450C-903F-3050E1F7AAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMSinCS", "AMSinCS\AMSinCS.csproj", "{ABD9C60A-B779-450C-903F-3050E1F7AAB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMSinSC.DataAccess", "AMSinSC.DataAccess\AMSinSC.DataAccess.csproj", "{F7B6CFFD-40C7-4EF5-A685-5A4E4098FEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMSinCS.ApplicationServices", "AMSinCS.ApplicationServices\AMSinCS.ApplicationServices.csproj", "{73B40691-6D48-43DF-B43C-FD5E7E1C7805}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{ABD9C60A-B779-450C-903F-3050E1F7AAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD9C60A-B779-450C-903F-3050E1F7AAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD9C60A-B779-450C-903F-3050E1F7AAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B6CFFD-40C7-4EF5-A685-5A4E4098FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B6CFFD-40C7-4EF5-A685-5A4E4098FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B6CFFD-40C7-4EF5-A685-5A4E4098FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B6CFFD-40C7-4EF5-A685-5A4E4098FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B40691-6D48-43DF-B43C-FD5E7E1C7805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B40691-6D48-43DF-B43C-FD5E7E1C7805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B40691-6D48-43DF-B43C-FD5E7E1C7805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B40691-6D48-43DF-B43C-FD5E7E1C7805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

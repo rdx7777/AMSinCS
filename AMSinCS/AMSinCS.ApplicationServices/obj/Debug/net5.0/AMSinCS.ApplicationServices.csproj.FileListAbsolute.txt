@@ -1,0 +1,15 @@
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\bin\Debug\net5.0\AMSinCS.ApplicationServices.deps.json
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\bin\Debug\net5.0\AMSinCS.ApplicationServices.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\bin\Debug\net5.0\ref\AMSinCS.ApplicationServices.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\bin\Debug\net5.0\AMSinCS.ApplicationServices.pdb
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\bin\Debug\net5.0\AMSinSC.DataAccess.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\bin\Debug\net5.0\AMSinSC.DataAccess.pdb
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.csproj.AssemblyReference.cache
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.AssemblyInfoInputs.cache
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.AssemblyInfo.cs
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.csproj.CopyComplete
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\ref\AMSinCS.ApplicationServices.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinCS.ApplicationServices\obj\Debug\net5.0\AMSinCS.ApplicationServices.pdb

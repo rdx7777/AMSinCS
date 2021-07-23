@@ -1,0 +1,14 @@
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\bin\Debug\net5.0\AMSinSC.DataAccess.deps.json
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\bin\Debug\net5.0\AMSinSC.DataAccess.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\bin\Debug\net5.0\ref\AMSinSC.DataAccess.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\bin\Debug\net5.0\AMSinSC.DataAccess.pdb
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.AssemblyInfoInputs.cache
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.AssemblyInfo.cs
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\ref\AMSinSC.DataAccess.dll
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.pdb
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\bin\Debug\net5.0\AMSinSC.DataAccess.runtimeconfig.json
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\bin\Debug\net5.0\AMSinSC.DataAccess.runtimeconfig.dev.json
+C:\Radek\! # .NET\AMSinCS\AMSinCS\AMSinSC.DataAccess\obj\Debug\net5.0\AMSinSC.DataAccess.genruntimeconfig.cache
